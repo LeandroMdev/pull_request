@@ -71,6 +71,7 @@
 * Alex Claros
 * DanielBulevare
 * Alejandro Gonzalez (Mexico)
+* LeandroMDev
 * Angelina Bruzoni (Argentina)
 * Freddy Hernandez Barajas
 * Andres Bravo Aguilar
